@@ -30,7 +30,6 @@ service mysqld start
 
 mysql -u root -e "SHOW DATABASES";
 
-
 #dOWNLOAD STARTER CONTENT
 cd /vagrant
 
